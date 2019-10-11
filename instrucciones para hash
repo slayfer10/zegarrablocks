@@ -1,0 +1,4 @@
+Este tipo de mineria de datos se centra en trabajar con '1' 
+Para generar el hash inicial apretar ENTER luego de ingresar los datos en la casilla DATOS
+Para limpiar todas las casillas dar ENTER en la casilla de NONCE
+Es posible de que el HASH MINADO se convierta en el hash inicial una ves la palabra sea procesada (probabilidad 50%)
